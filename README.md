@@ -12,6 +12,9 @@ https://huggingface.co/CCSSNE
 
 https://hf-mirror.com/
 
+也可以用这个项目先转存到自己的网盘上
+https://www.modelscope.cn/studios/xuminglong/CloudFileRelay
+
 ## 群组
 
 QQ交流群 1084838239
