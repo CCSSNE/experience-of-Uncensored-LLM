@@ -95,7 +95,7 @@ https://huggingface.co/HauhauCS/models
 
 https://huggingface.co/trohrbaugh/models  这人看不出来用的什么技术，但是我测试了还行，不是那种很垃圾的 abliterated
 
-https://huggingface.co/dealignai/models  这个用的不是 heretic，是他自己的一套技术
+https://huggingface.co/dealignai/models  这个人做的都是只能在苹果上跑的
 
 ## 必须拉黑的作者
 
