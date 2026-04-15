@@ -91,13 +91,13 @@ https://huggingface.co/brayniac/models
 
 https://huggingface.co/tvall43/models
 
-https://huggingface.co/HauhauCS/models
+https://huggingface.co/HauhauCS/models 非heretic,不过效果还不错
 
-https://huggingface.co/trohrbaugh/models  这人看不出来用的什么技术，但是我测试了还行，不是那种很垃圾的 abliterated
+https://huggingface.co/trohrbaugh/models  非heretic,不过效果还不错
 
 https://huggingface.co/dealignai/models  这个人做的都是只能在苹果上跑的
 
-https://huggingface.co/LuffyTheFox/models
+https://huggingface.co/LuffyTheFox/models 非heretic-同HauhauCS,不过效果还不错
 
 ## 必须拉黑的作者
 
