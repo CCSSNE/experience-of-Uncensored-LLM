@@ -32,9 +32,12 @@ https://t.me/+4pdsKLTS0N1lMDVl
 一般推理用 .gguf 格式的量化 推荐使用q4km量化，基本没什么损失，体积减少两倍，相当于100b 的模型只占50g存储
 
 找不到量化的，可以自己量化
+
 建议使用 hf 上的免费量化
 https://huggingface.co/spaces/ggml-org/gguf-my-repo
+
 也可以自己量化,看我另外一篇教程
+https://github.com/CCSSNE/experience-of-Uncensored-LLM/wiki/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E9%87%8F%E5%8C%96
 
 ## 未审查模型关键词
 
